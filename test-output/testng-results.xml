@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-14T01:07:03 IST" name="Default suite" finished-at="2022-01-14T01:07:15 IST" duration-ms="12270">
+    <groups>
+    </groups>
+    <test started-at="2022-01-14T01:07:03 IST" name="Default test" finished-at="2022-01-14T01:07:15 IST" duration-ms="12270">
+      <class name="com.guru99.bankingproject.team_a_TestCase.LogoutTC">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.guru99.bankingproject.team_a_TestCase.LogoutTC@a38c7fe]" started-at="2022-01-14T01:07:03 IST" name="init" finished-at="2022-01-14T01:07:03 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.bankingproject.team_a_TestCase.LogoutTC@a38c7fe]" started-at="2022-01-14T01:07:03 IST" name="setUp" finished-at="2022-01-14T01:07:11 IST" duration-ms="7802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.guru99.com/V4/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logouttoguru99()[pri:0, instance:com.guru99.bankingproject.team_a_TestCase.LogoutTC@a38c7fe]" started-at="2022-01-14T01:07:11 IST" name="logouttoguru99" finished-at="2022-01-14T01:07:15 IST" duration-ms="4077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logouttoguru99 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.bankingproject.team_a_TestCase.LogoutTC@a38c7fe]" started-at="2022-01-14T01:07:15 IST" name="tearDown" finished-at="2022-01-14T01:07:15 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.bankingproject.team_a_TestCase.LogoutTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
